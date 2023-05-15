@@ -1,0 +1,14 @@
+C:\Users\Zver\source\repos\SweepMethodSlau\SweepMethodSlau\bin\Debug\SweepMethodSlau.exe.config
+C:\Users\Zver\source\repos\SweepMethodSlau\SweepMethodSlau\bin\Debug\SweepMethodSlau.exe
+C:\Users\Zver\source\repos\SweepMethodSlau\SweepMethodSlau\bin\Debug\SweepMethodSlau.pdb
+C:\Users\Zver\source\repos\SweepMethodSlau\SweepMethodSlau\obj\Debug\SweepMethodSlau.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\SweepMethodSlau\SweepMethodSlau\obj\Debug\SweepMethodSlau.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\SweepMethodSlau\SweepMethodSlau\obj\Debug\SweepMethodSlau.exe
+C:\Users\Zver\source\repos\SweepMethodSlau\SweepMethodSlau\obj\Debug\SweepMethodSlau.pdb
+C:\Users\Zver\Desktop\ПЗ ОАИП\SweepMethodSlau\SweepMethodSlau\bin\Debug\SweepMethodSlau.exe.config
+C:\Users\Zver\Desktop\ПЗ ОАИП\SweepMethodSlau\SweepMethodSlau\bin\Debug\SweepMethodSlau.exe
+C:\Users\Zver\Desktop\ПЗ ОАИП\SweepMethodSlau\SweepMethodSlau\bin\Debug\SweepMethodSlau.pdb
+C:\Users\Zver\Desktop\ПЗ ОАИП\SweepMethodSlau\SweepMethodSlau\obj\Debug\SweepMethodSlau.csprojAssemblyReference.cache
+C:\Users\Zver\Desktop\ПЗ ОАИП\SweepMethodSlau\SweepMethodSlau\obj\Debug\SweepMethodSlau.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\ПЗ ОАИП\SweepMethodSlau\SweepMethodSlau\obj\Debug\SweepMethodSlau.exe
+C:\Users\Zver\Desktop\ПЗ ОАИП\SweepMethodSlau\SweepMethodSlau\obj\Debug\SweepMethodSlau.pdb
